@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\PC\source\repos\L20230109_TCPServer\main.cpp(64,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  L20230109_TCPServer.vcxproj -> C:\Users\PC\source\repos\L20230109_TCPServer\x64\Debug\L20230109_TCPServer.exe
